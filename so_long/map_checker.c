@@ -7,7 +7,7 @@
 int check_extention(char *filename)
 {
     int i;
-    
+    //dksfffffffffffffffff
     i = 0;
     while(filename[i])
         i++;
